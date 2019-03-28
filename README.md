@@ -1,6 +1,6 @@
 # Blind Vision
 
-In this project we built a mobile assistant appfor visually impaired people. The app runs completely of-fline on the mobile device, it includes a deep convolutionalneuron  network  for  gender  detection,  and  have  a  way  to represent  picture  content  with  sound.
+In this project we built a mobile assistant appfor visually impaired people. The app runs completely of-fline on the mobile device, it includes a deep convolutional neuron  network  for  prcise object detection,  and  have  a  way  to represent  picture  content  with  sound.
 
 ## Description
 
@@ -10,6 +10,7 @@ WITH the recent  development  of  mobile  chips,  wenow see more and more powerf
 
 
 
-<img src="sample_images/classify1.jpg" width="30%"><img src="sample_images/stylize1.jpg" 
+<img src="sample_images/classify1.jpg" width="30%">
+<img src="sample_images/stylize1.jpg" 
 
 
