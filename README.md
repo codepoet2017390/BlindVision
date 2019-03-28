@@ -1,6 +1,6 @@
 # Blind Vision
 
-In this project we built a mobile assistant appfor visually impaired people. The app runs completely of-fline on the mobile device, it includes a deep convolutional neuron  network  for  prcise object detection,  and  have  a  way  to represent  picture  content  with  sound.
+In this project we built a mobile assistant appfor visually impaired people. The app runs completely of-fline on the mobile device, it includes a deep convolutional neuron  network  for  precise object detection,  and  have  a  way  to represent  picture  content  with  sound.
 
 ## Description
 
